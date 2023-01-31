@@ -1,6 +1,6 @@
 ## Screenshots
 
-![App Screenshot](https://logospng.org/wp-content/uploads/node-js.png](https://e7.pngegg.com/pngimages/493/735/png-clipart-node-js-javascript-express-js-mongodb-github-github-angle-text.png))
+![App Screenshot](https://e7.pngegg.com/pngimages/493/735/png-clipart-node-js-javascript-express-js-mongodb-github-github-angle-text.png)
 
 
 
