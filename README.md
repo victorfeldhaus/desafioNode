@@ -1,7 +1,6 @@
 ## Screenshots
 
-![App Screenshot](https://img1.pnghut.com/1/4/7/5CXD0EnpdZ/expressjs-logo-text-serverside-runtime-system.jpg](https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png))
-
+![App Screenshot](https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png)
 
 
 
