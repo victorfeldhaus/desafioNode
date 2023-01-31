@@ -54,7 +54,7 @@ module.exports = {
                 res.status(401).json({ message: "Empresa nao encontrada"})
             } else {
                 await modelEmpresa.destroy({ where: { id }})
-                res.status(200).json({ ok: true})
+                res.status(200).json({ message: "Empresa Deletada!"})
             }
            
     
