@@ -105,6 +105,8 @@ Para listar as empresas, crie uma método get com http://localhost:9000/empresas
 Para cadastrar uma empresa, utilize esse tipo de entrada em JSON para cadastrar a empresa
 e o método post http://localhost:9000/empresa/insert
 
+Não pode valores nulos.
+
 ```bash
   {
 	"razaosocial": "Ambisis",
@@ -118,6 +120,9 @@ e o método post http://localhost:9000/empresa/insert
 
 Para a atualizar uma empresa, utilize o método put http://localhost:9000/empresa/update/id
 e alterarando os dados:
+
+Não pode valores nulos.
+
 ```bash
   {
 	"razaosocial": "Blukit",
@@ -140,6 +145,7 @@ Retornando essa mensagem:
 
 Para deletar uma empresa, utilize o método delete http://localhost:9000/empresa/delete/id
 
+Retornando essa mensagem:
 
 ```bash
   {
@@ -171,6 +177,8 @@ Para listar as licenças, crie uma método get com http://localhost:9000/licenca
 Para cadastrar uma licença, utilize esse tipo de entrada em JSON para cadastrar a empresa
 e o método post http://localhost:9000/licenca/insert
 
+Não pode valores nulos.
+
 ```bash
   {
 	"empresas": 4,
@@ -183,6 +191,9 @@ e o método post http://localhost:9000/licenca/insert
 
 Para a atualizar uma licença, utilize o método put http://localhost:9000/licenca/update/id
 e alterarando os dados:
+
+Não pode valores nulos.
+
 ```bash
   {
 	"empresas": 4,
@@ -204,6 +215,7 @@ Retornando essa mensagem:
 
 Para deletar uma empresa, utilize o método delete http://localhost:9000/licenca/delete/id
 
+Retornando essa mensagem:
 
 ```bash
   {
