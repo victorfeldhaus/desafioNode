@@ -56,7 +56,7 @@ module.exports = {
             res.status(401).json({ message: "Licença nao encontrada"})
         } else {
             await modelLicenca.destroy({ where: { id }})
-            res.status(200).json({ ok: true})
+            res.status(200).json({ message: "Licença Deletada!"})
         }
        
 
