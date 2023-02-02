@@ -6,7 +6,7 @@
 
 # Desafio Ambisis
 
-Este repositório contém os desafios feitos pela para a empresa Ambisis.
+Este repositório contém os desafio feito para a empresa Ambisis.
 
 
 ## Tecnologias
